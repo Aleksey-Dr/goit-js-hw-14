@@ -22,3 +22,17 @@ button {
   padding: 8px 12px;
   cursor: pointer;
 }
+
+/* ============= ADD ============= */
+img {
+  display: block;
+}
+
+.list {
+  list-style: none;
+}
+
+.gallery {
+  display: flex;
+  gap: 8px;
+}
